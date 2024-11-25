@@ -8,36 +8,12 @@
   ],
   "heroes": [
     {
-      "id": "dc-batman",
-      "superhero": "Batman",
-      "publisher": "DC Comics",
-      "alter_ego": "Bruce Wayne",
-      "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
-    },
-    {
-      "id": "dc-superman",
-      "superhero": "Superman",
-      "publisher": "DC Comics",
-      "alter_ego": "Kal-El",
-      "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
-    },
-    {
       "id": "dc-flash",
       "superhero": "Flash",
       "publisher": "DC Comics",
       "alter_ego": "Jay Garrick",
       "first_appearance": "Flash Comics #1",
       "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen"
-    },
-    {
-      "id": "dc-green",
-      "superhero": "Green Lantern",
-      "publisher": "DC Comics",
-      "alter_ego": "Alan Scott",
-      "first_appearance": "All-American Comics #16",
-      "characters": "Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz"
     },
     {
       "id": "dc-arrow",
@@ -166,6 +142,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "KEfE6yf",
+      "superhero": "Christian",
+      "publisher": "MarvelComics",
+      "alter_ego": "ChristiGaP",
+      "first_appearance": "Moratalaz 2015",
+      "characters": "Christian",
+      "alt_img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9fc52867-c4cd-4874-b21a-d7e2c6883223/ddu29f3-b7427907-8d28-4782-92d9-9f3b2c34edee.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzlmYzUyODY3LWM0Y2QtNDg3NC1iMjFhLWQ3ZTJjNjg4MzIyM1wvZGR1MjlmMy1iNzQyNzkwNy04ZDI4LTQ3ODItOTJkOS05ZjNiMmMzNGVkZWUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IknVHbd723c5_i22fjv0PRGrzPVR2oGhDQymbgfojSg"
     }
   ]
 }
